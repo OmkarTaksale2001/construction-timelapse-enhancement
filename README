@@ -1,0 +1,15 @@
+This repository contains Python code for enhancing construction site timelapse videos by filtering and enhancing defective images.
+
+## Features
+- Daylight detection
+- Image enhancement using CLAHE and dehazing
+- Timelapse video generation
+
+## Usage
+1. Clone the repository.
+2. Run `enhance_images.py` to process images and generate the timelapse video.
+
+## Requirements
+- Python 3.x
+- OpenCV
+- NumPy
